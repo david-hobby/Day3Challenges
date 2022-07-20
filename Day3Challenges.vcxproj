@@ -140,10 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Day3Challenges.cpp" />
+    <ClCompile Include="FactorDisplay.cpp" />
     <ClCompile Include="LeapYear.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LeapYear.h" />
+    <ClInclude Include="header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

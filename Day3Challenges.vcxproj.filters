@@ -21,9 +21,12 @@
     <ClCompile Include="LeapYear.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FactorDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LeapYear.h">
+    <ClInclude Include="header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

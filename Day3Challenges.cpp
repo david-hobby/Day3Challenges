@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LeapYear.h"
+#include "header.h"
 
 using namespace std;
 
@@ -17,6 +17,12 @@ int main()
     {
         cout << year << " IS NOT a Leap Year.\n";
     }
+
+    int num;
+    cout << "Input a number to factor:\n";
+    cin >> num;
+
+    FactorDisplay(num);
 }
 
 
